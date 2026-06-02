@@ -260,6 +260,36 @@ Airbnb-Global-Performance-Dashboard/
 
 ---
 
+## 📊 Dataset Source
+
+This project uses the Airbnb Listings & Reviews dataset provided by Maven Analytics Data Playground.
+
+### Dataset Details
+
+The dataset contains information related to:
+
+- Airbnb Listings
+- Hosts
+- Reviews
+- Ratings
+- Pricing
+- Property Types
+- Room Types
+- Host Verification Status
+- Customer Review Activity
+
+### Dataset Link
+
+🔗 Airbnb Listings & Reviews Dataset:
+
+https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
+### Dataset Provider
+
+Maven Analytics Data Playground provides real-world datasets for data analysis, business intelligence, and visualization projects.
+
+---
+
 ## 📷 Dashboard Screenshots
 
 ### Overview Dashboard
