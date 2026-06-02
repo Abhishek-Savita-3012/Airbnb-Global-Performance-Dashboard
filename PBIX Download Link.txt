@@ -1,0 +1,7 @@
+Airbnb Global Performance Dashboard (.pbix)
+
+Google Drive Download Link:
+https://drive.google.com/file/d/1oBVqfnKIKqjv6AbI3bSwykG1bZ1mB02r/view?usp=sharing
+
+Note:
+The PBIX file is hosted on Google Drive due to GitHub file size limitations.
